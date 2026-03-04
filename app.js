@@ -6,7 +6,7 @@ const http = require("http");
 
 
 
-
+TODO uhiibk
 const config = require("./config/dbconnexion.json")
 
 mongo
@@ -31,7 +31,7 @@ app.use("/hotel", personRouter);
 
 
 
-
+TODO
 app.use(bodyparser.json());
 
 
